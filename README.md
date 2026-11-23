@@ -4,8 +4,7 @@ A gravity puzzle game for the browser. Sling a probe past planets and let their 
 
 Orbit Shot is a single HTML file. It has no dependencies, no build step and no server.
 
-**Play it:** https://thanushi-paranagama.github.io/orbit-shot/ (available once GitHub Pages is switched on, see below)
-
+**Play it:** https://thanushi-paranagama.github.io/orbit-shot/ 
 ## How to play
 
 1. Press anywhere on the screen and drag backwards, like a slingshot.
