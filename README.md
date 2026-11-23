@@ -30,20 +30,6 @@ Crashing into a planet or leaving the screen resets the probe at no cost. Only l
 
 Your stars are saved in the browser (`localStorage`), so they stay on the device you played on.
 
-## Run it locally
-
-1. Download or clone this repository.
-2. Open `index.html` in a modern browser (Chrome, Edge, Firefox or Safari).
-
-The fonts (Unbounded and Manrope) load from Google Fonts, so the first load needs an internet connection. Without it the game falls back to a system font and still works.
-
-## Publish it with GitHub Pages
-
-1. Push `index.html` and this README to a repository named `orbit-shot`.
-2. In the repository, open **Settings**, then **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select the `main` branch and the `/ (root)` folder, then save.
-4. After a minute or two the game is live at the link at the top of this file.
-
 ## Customize
 
 Everything is in `index.html`.
